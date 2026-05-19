@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jenish</h1>
 <h3 align="center">Backend Developer | Java Enthusiast | BTech Student</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Development;Java+%7C+Spring+Boot;DSA+and+Problem+Solving;Building+Projects+and+Learning" />
