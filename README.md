@@ -112,7 +112,7 @@ class Jenish {
 
 ### 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,vercel,render" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,vercel" />
 
 <br><br>
 
