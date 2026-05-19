@@ -101,10 +101,18 @@ class Jenish {
 
 ---
 
-# ⚡ Fun Quote
+# ⚡ Developer Mindset
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+```java
+while (!success) {
+    learn();
+    build();
+    improve();
+}
+```
+
 </p>
 
 ---
