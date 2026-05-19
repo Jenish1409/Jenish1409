@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Jenish%20Raichura&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Java%20Enthusiast%20|%20BTech%20Student&descAlignY=58"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+Development+Enthusiast;Java+%7C+Spring+Boot+Learner;Data+Structures+%26+Algorithms;Building+Projects+and+Learning+Daily;Focused+on+Placements+and+Growth" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+Development+Enthusiast;Java+%7C+Spring+Boot+Learner;Data+Structures+%26+Algorithms;Building+Projects+and+Learning+Daily" />
 </p>
 
 <p align="center">
@@ -44,12 +44,6 @@ class Jenish {
 ---
 
 # 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenish1409&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenish1409&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"/>
-</p>
 
 <p align="center">
   <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jenish1409&theme=tokyonight&hide_border=true&background=0D1117" />
