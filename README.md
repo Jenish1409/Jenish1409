@@ -70,15 +70,9 @@ class Jenish {
 
 - 🎓 BTech CSE Student at PDEU  
 - 🚀 Passionate about building scalable and user-focused applications  
-- 🌱 Currently learning Spring Boot & System Design  
+- 🌱 Currently learning Spring Boot & System Design   
 - ⚡ Love building practical projects  
 - 💡 Always learning and experimenting  
-
-</td>
-
-<td width="45%" valign="middle" align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jenish1409&theme=algolia&no-frame=true&no-bg=true&row=2&column=3"/>
 
 </td>
 </tr>
@@ -112,7 +106,7 @@ class Jenish {
 
 ### 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,vercel" />
 
 <br><br>
 
@@ -134,26 +128,48 @@ class Jenish {
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 ApiSentinel
+### ⚒️ DevForge
 
-Modern API monitoring platform with:
-- uptime tracking
-- analytics
-- JWT authentication
-- real-time dashboards
+Full-Stack Mock API Platform that enables developers to create, manage, and consume realistic mock APIs without waiting for backend development.
 
-Built using Spring Boot + React.
+- Dynamic mock endpoint generation
+- JWT Authentication & API Key Protection
+- Redis-powered dynamic caching
+- Environment & endpoint management
+- Dockerized deployment
+
+**Tech Stack:** Spring Boot 4 • React 19 • PostgreSQL • Redis • Docker
+
+<a href="https://devforge-xi.vercel.app/">🌐 Live Demo</a>
+
+<br>
+
+<a href="https://github.com/Jenish1409/DevForge">📂 Repository</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✈️ TravelMind
+### 🚀 ApiSentinel
 
-AI-powered travel planner with:
-- itinerary generation
-- smart recommendations
-- collaborative planning
+Modern API monitoring platform built for tracking service health and performance.
+
+- Uptime monitoring
+- Analytics dashboards
+- JWT authentication
+- Real-time metrics visualization
+
+**Tech Stack:** Spring Boot • React • PostgreSQL
+
+<a href="https://github.com/Jenish1409/apisentinel-backend">📂 Backend Repository</a>
+
+<br>
+
+<a href="https://github.com/Jenish1409/apisentinel-frontend">🎨 Frontend Repository</a>
+
+<br>
+
+<a href="https://apisentinel.vercel.app/">🌐 Live Demo</a>
 
 </td>
 </tr>
@@ -161,21 +177,58 @@ AI-powered travel planner with:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 DataDesk
+### ✈️ TravelMind
 
-University automation chatbot using BotPress for handling queries and FAQs.
+AI-powered travel planning application.
+
+- Smart itinerary generation
+- Personalized recommendations
+- Collaborative trip planning
+
+**Tech Stack:** AI • React • Backend APIs
+
+<a href="https://github.com/Jenish1409/TravelMind">📂 Repository</a>
+
+<br>
+
+<a href="https://travelmind-frontend.onrender.com/">🌐 Live Demo</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🍽️ Restaurant Reservation System
+### 🤖 DataDesk
 
-Full-stack reservation management system using PHP & MySQL.
+University automation chatbot built to simplify student support and query handling.
+
+- Automated FAQ handling
+- Student query assistance
+- BotPress integration
+- Workflow automation
+
+**Tech Stack:** BotPress • APIs • Automation
+
+<a href="https://github.com/Jenish1409/DataDesk">📂 Repository</a>
 
 </td>
 </tr>
 </table>
+
+---
+
+
+<div align="center">
+
+<h2>📊 GitHub Analytics</h2>
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jenish1409&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenish1409&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
