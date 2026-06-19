@@ -46,6 +46,7 @@ Building modern backend systems and real-world applications.
 
 ---
 
+<div align="center">
 <table>
 <tr>
 <td width="55%" valign="top">
@@ -77,6 +78,7 @@ class Jenish {
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
