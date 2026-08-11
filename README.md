@@ -70,8 +70,8 @@ class Jenish {
 
 <br><br>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<a href="https://leetcode.com/Jenish_1409">
+<img src="https://leetcard.jacoblin.cool/Jenish_1409?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </a>
 
 </td>
@@ -81,8 +81,8 @@ class Jenish {
 
 <br><br>
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME" />
+<a href="https://codeforces.com/profile/Jenish1409">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Jenish1409" />
 </a>
 
 </td>
