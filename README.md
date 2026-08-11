@@ -96,7 +96,7 @@ class Jenish {
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,c,js,php" />
+<img src="https://skillicons.dev/icons?i=java,c,js" />
 
 <br><br>
 
