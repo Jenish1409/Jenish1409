@@ -1,130 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:111827,100:2563EB&text=Jenish%20Raichura&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:111827,100:2563EB&text=Jenish%20Raichura&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=54&descSize=18"/>
 
 <br>
 
-<h1>Hey there 👋</h1>
-
-<h3>
-Building modern backend systems and real-world applications.
-</h3>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Backend+Development;Full+Stack+Projects;Scalable+Applications;Problem+Solving;Learning+and+Building+Everyday" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Backend+Development;Full+Stack+Projects;Scalable+Applications;Competitive+Programming;Learning+and+Building+Everyday" />
 
 <br><br>
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/Jenish1409">
-  <img src="https://skillicons.dev/icons?i=github" height="52"/>
-</a>
-</td>
+<p>
+<a href="https://github.com/Jenish1409"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jenish-raichura-9b535727b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jenishraichura58@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/Jenish_1409"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/Jenish1409"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
 
-<td align="center">
-<a href="https://www.linkedin.com/in/jenish-raichura-9b535727b/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="52"/>
-</a>
-</td>
-
-<td align="center">
-<a href="mailto:jenishraichura58@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="52"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Jenish1409&label=Profile%20Views&color=2563EB&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Jenish1409&label=Profile%20Views&color=2563EB&style=for-the-badge" />
 
 </div>
 
----
+<br>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:2563EB&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
 <table>
 <tr>
 <td width="55%" valign="top">
-
-<h2>👨‍💻 About Me</h2>
 
 ```java
 class Jenish {
 
     String role = "Developer";
-
     String currentFocus = "Building scalable and practical applications";
 
     String[] interests = {
         "Backend Development",
         "Full Stack Development",
         "System Design",
-        "Problem Solving"
+        "Competitive Programming"
     };
+
+    boolean opentoWork = true;
 }
 ```
 
-- 🎓 BTech CSE Student at PDEU  
-- 🚀 Passionate about building scalable and user-focused applications  
-- 🌱 Currently learning Spring Boot & System Design   
-- ⚡ Love building practical projects  
-- 💡 Always learning and experimenting  
+</td>
+<td width="45%" valign="top">
+
+- 🎓 &nbsp;BTech CSE Student at PDEU
+- 🚀 &nbsp;Passionate about building scalable and user-focused applications
+- 🌱 &nbsp;Currently learning **Spring Boot & System Design**
+- ⚡ &nbsp;Love building practical, real-world projects
+- 🏅 &nbsp;Active competitive programmer
+- 💡 &nbsp;Always learning and experimenting
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:2563EB&height=70&section=header&text=Achievements&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/LeetCode-Knight%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<br><br>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/Codeforces-Pupil-43A047?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+<br><br>
+
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME" />
+</a>
 
 </td>
 </tr>
 </table>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:2563EB&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 <div align="center">
 
-<h2>⚒️ Tech Stack</h2>
-
+**Languages**
 <br>
-
-### 💻 Languages
-
 <img src="https://skillicons.dev/icons?i=java,c,js,php" />
 
 <br><br>
 
-### 🚀 Backend Development
-
+**Backend Development**
+<br>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
 <br><br>
 
-### 🎨 Frontend Development
-
+**Frontend Development**
+<br>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 
 <br><br>
 
-### 🗄️ Databases & Cloud
-
+**Databases & Cloud**
+<br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,vercel" />
 
 <br><br>
 
-### 🛠️ Tools & Environment
-
+**Tools & Environment**
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,eclipse" />
 
 </div>
 
----
-
-<div align="center">
-
-<h2>🚀 Featured Projects</h2>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:2563EB&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 <table>
 <tr>
@@ -140,16 +140,12 @@ Full-Stack Mock API Platform that enables developers to create, manage, and cons
 - Environment & endpoint management
 - Dockerized deployment
 
-**Tech Stack:** Spring Boot 4 • React 19 • PostgreSQL • Redis • Docker
+`Spring Boot 4` `React 19` `PostgreSQL` `Redis` `Docker`
 
-<a href="https://devforge-xi.vercel.app/">🌐 Live Demo</a>
-
-<br>
-
-<a href="https://github.com/Jenish1409/DevForge">📂 Repository</a>
+<a href="https://devforge-xi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Jenish1409/DevForge"><img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🚀 ApiSentinel
@@ -161,17 +157,11 @@ Modern API monitoring platform built for tracking service health and performance
 - JWT authentication
 - Real-time metrics visualization
 
-**Tech Stack:** Spring Boot • React • PostgreSQL
+`Spring Boot` `React` `PostgreSQL`
 
-<a href="https://github.com/Jenish1409/apisentinel-backend">📂 Backend Repository</a>
-
-<br>
-
-<a href="https://github.com/Jenish1409/apisentinel-frontend">🎨 Frontend Repository</a>
-
-<br>
-
-<a href="https://apisentinel.vercel.app/">🌐 Live Demo</a>
+<a href="https://apisentinel.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Jenish1409/apisentinel-backend"><img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Jenish1409/apisentinel-frontend"><img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -187,16 +177,12 @@ AI-powered travel planning application.
 - Personalized recommendations
 - Collaborative trip planning
 
-**Tech Stack:** AI • React • Backend APIs
+`AI` `React` `Backend APIs`
 
-<a href="https://github.com/Jenish1409/TravelMind">📂 Repository</a>
-
-<br>
-
-<a href="https://travelmind-frontend.onrender.com/">🌐 Live Demo</a>
+<a href="https://travelmind-frontend.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=render&logoColor=white" /></a>
+<a href="https://github.com/Jenish1409/TravelMind"><img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🤖 DataDesk
@@ -208,49 +194,52 @@ University automation chatbot built to simplify student support and query handli
 - BotPress integration
 - Workflow automation
 
-**Tech Stack:** BotPress • APIs • Automation
+`BotPress` `APIs` `Automation`
 
-<a href="https://github.com/Jenish1409/DataDesk">📂 Repository</a>
+<a href="https://github.com/Jenish1409/DataDesk"><img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
----
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:2563EB&height=70&section=header&text=GitHub%20Analytics&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 <div align="center">
 
-<h2>📊 GitHub Analytics</h2>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jenish1409&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenish1409&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jenish1409&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Jenish1409&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenish1409&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jenish1409&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+<br><br>
+
+<!--
+  Animated contribution snake — requires a one-time GitHub Actions setup.
+  See the snake.yml file for the workflow; instructions are in the message below.
+-->
+<img src="https://raw.githubusercontent.com/Jenish1409/Jenish1409/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
-
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:2563EB&height=70&section=header&text=Extras&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
 <div align="center">
-
-<h2>✨ Random Dev Stuff</h2>
-
-<br>
 
 <img src="https://readme-jokes.vercel.app/api?theme=github-dark&hideBorder=true" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<h2>⚡ Developer Mindset</h2>
-
-</div>
+### ⚡ Developer Mindset
 
 ```java
 while (!success) {
@@ -260,10 +249,12 @@ while (!success) {
 }
 ```
 
+</div>
+
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:111827,100:2563EB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,50:111827,100:2563EB"/>
 
 </div>
