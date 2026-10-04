@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Backend+Development;Full+Stack+Projects;Scalable+Applications;Competitive+Programming;Learning+and+Building+Everyday" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Backend+Development;Distributed+Systems;Full+Stack+Projects;Scalable+Applications;Competitive+Programming;Learning+and+Building+Everyday" />
 
 <br><br>
 
@@ -36,6 +36,7 @@ class Jenish {
 
     String[] interests = {
         "Backend Development",
+        "Distributed Systems",
         "Full Stack Development",
         "System Design",
         "Competitive Programming"
@@ -96,7 +97,7 @@ class Jenish {
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,c,js" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,c" />
 
 <br><br>
 
@@ -130,38 +131,39 @@ class Jenish {
 <tr>
 <td width="50%" valign="top">
 
+### 🔥 Vulcan
+
+Distributed key-value cache built from scratch — consistent hashing, quorum-based replication, automatic failover, and a custom chaos-engineering harness that proves correctness under real node failures and network partitions.
+
+- Consistent hashing with virtual nodes for even key distribution
+- Async replication + read fallback + rejoin re-sync
+- Heartbeat-based failure detection and automatic rerouting
+- Custom chaos-testing harness with a linearizability checker
+- Discovered and root-caused a real instance of the Two Generals Problem
+- Dockerized 3-node cluster, benchmarked against Redis
+- Live visual dashboard (hash ring, real-time events, chaos controls)
+
+`TypeScript` `Node.js` `Docker` `Distributed Systems` `React`
+
+<a href="https://github.com/Jenish1409/vulcan-dkv-cache"><img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
 ### ⚒️ DevForge
 
-Full-Stack Mock API Platform that enables developers to create, manage, and consume realistic mock APIs without waiting for backend development.
+Full-stack developer platform combining an API mocking engine with Live Sentinel, a real-time API monitoring and incident-alerting system — no more waiting on an unfinished backend, and no more silent production outages.
 
-- Dynamic mock endpoint generation
-- JWT Authentication & API Key Protection
-- Redis-powered dynamic caching
-- Environment & endpoint management
+- Dynamic mock endpoint generation with configurable latency
+- Live Sentinel: scheduled uptime monitoring with automated email alerts
+- JWT Authentication & SHA-256 API Key Protection
+- Redis cache-aside strategy for high-performance mock serving
 - Dockerized deployment
 
 `Spring Boot 4` `React 19` `PostgreSQL` `Redis` `Docker`
 
 <a href="https://devforge-xi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Jenish1409/DevForge"><img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 ApiSentinel
-
-Modern API monitoring platform built for tracking service health and performance.
-
-- Uptime monitoring
-- Analytics dashboards
-- JWT authentication
-- Real-time metrics visualization
-
-`Spring Boot` `React` `PostgreSQL`
-
-<a href="https://apisentinel.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/Jenish1409/apisentinel-backend"><img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Jenish1409/apisentinel-frontend"><img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
